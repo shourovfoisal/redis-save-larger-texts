@@ -1,0 +1,1 @@
+In the shell, big messages such as text embeddings can't be fully pasted to save them in redis. This script will help to overcome that.
